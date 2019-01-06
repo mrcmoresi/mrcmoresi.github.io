@@ -16,7 +16,7 @@ redirect_from:
 
 * I received my Bachelor's Degree in Computer Science, [Facultad de Matemática, Astronomía, Física, y Computación](www.famaf.unc.edu.ar), [Universidad Nacional de Córdoba](https://www.unc.edu.ar/).
 
-* My research interests lie in the general area of machine learning, particularly in speech, language and dialogue processing as well as their applications in intelligent tutor system, natural language understanding and others. And one part of my heart is in Computer Vision systems because those were the firsts applications of machine learning that i learned.
+* My research interests lie in the general area of machine learning, particularly in speech, language and dialogue processing as well as their applications in intelligent tutoring system, natural language understanding and others. And one part of my heart is in Computer Vision systems because those were the firsts applications of machine learning that i learned.
 
 
 
