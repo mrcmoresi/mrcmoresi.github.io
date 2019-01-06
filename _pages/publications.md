@@ -1,16 +1,14 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=QDxLGXUAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Computer Science Education
 
-{% include base_path %}
+<b>[Lessons Learned on Computer Science Teachers Professional Development](http://mrcmoresi.github.com/publications/lesson_learned)</b> <br>
+M.Cecilia Martinez, Marcos J. Gomez, <b>Marco Moresi</b>, Luciana Benotti. <i> ITicSE 2016.</i>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## ML, Deep Learning and so on.
+
+Hope Coming soon
