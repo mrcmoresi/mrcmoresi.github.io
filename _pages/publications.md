@@ -6,7 +6,7 @@ author_profile: true
 
 ## Computer Science Education
 
-<b>[Lessons Learned on Computer Science Teachers Professional Development](http://mrcmoresi.github.com/publications/lesson_learned)</b> <br>
+<b>[Lessons Learned on Computer Science Teachers Professional Development](http://marcomoresi.com/publications/lesson_learned)</b> <br>
 M.Cecilia Martinez, Marcos J. Gomez, <b>Marco Moresi</b>, Luciana Benotti. <i> ITicSE 2016.</i>
 
 ## ML, Deep Learning and so on.
