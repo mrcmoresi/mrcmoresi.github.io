@@ -25,6 +25,6 @@ Programming: Literature Review and Case Studies](http://delivery.acm.org/10.1145
 ## Courses
 
 * [Coursera, Machine Learning by Stanford University, Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome) Completed
-* [Coursera, Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) Doing
+* [Coursera, Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) Doing you can see my work done [here](https://github.com/mrcmoresi/deepcoursera)
 
 ------
