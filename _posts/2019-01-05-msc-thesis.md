@@ -22,13 +22,13 @@ However the platform give to the student an assesment about his submissions, it 
 
 In order to achieve the feature to generate formative feedback, the first important step is detect when an student is in a dropout status. We define a dropout status as a moment when the student is near of drop out that exercise because he/she can not solve it and decide to switch exercise or simply leave the platform for a time.
 
-For this work, i have a 1 million entries dataset of Haskell exercise's submissions done in Mumuki platform. Those was done in Mumuki.io so a priori we dont have information about what kind of student was done the submissions. Wheter is a computer science student or not, age of students or some other information that allows us to understand what kind of student is.
+For this work, I have a 1 million entries dataset of Haskell exercise's submissions done in Mumuki platform. Those was done in Mumuki.io so a priori we dont have information about what kind of student was done the submissions. Wheter is a computer science student or not, age of students or some other information that allows us to understand what kind of student is.
 But we have all the information related to the submission, status, content, datetime and so on. 
 
 The main objective of this work is train a Machine Learning Model that can predict a dropout while the student is solving the exercise.
-In order to achieve that objetive i will pose some experiments. First of all i need to find out which of the features that i can build with submissions info has better perfomance in classifier. I will use Linear Regression as Baseline.
+In order to achieve that objetive I will pose some experiments. First of all I need to find out which of the features that I can build with submissions info has better perfomance in classifier. I will use Linear Regression as Baseline.
 
-Before that i will use a Deep Network, an LSTM, to predict dropout in programming students.
+Before that I will use a Deep Network, an LSTM, to predict dropout in programming students.
 Hoping have good results.
 
 PDF Coming soon ...

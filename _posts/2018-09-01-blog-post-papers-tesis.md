@@ -8,7 +8,7 @@ tags:
   - thesis
 ---
 
-This is a list of papers that i am reading as bibliography to complete my degree on Computer Science
+This is a list of papers that I am reading as bibliography to complete my degree on Computer Science
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Marco Moresi](mrc.moresi@gmail.com)
 
