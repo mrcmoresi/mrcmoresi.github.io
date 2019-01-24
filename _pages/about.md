@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="images/profile.jpg" alt="profile" style="width: 450px;"/> 
+  <!-- <img src="images/profile.jpg" alt="profile" style="width: 450px;"/>  -->
+  <img src="images/profile.jpg" alt="profile" style="width: 400px; transform: scale(0.8);"/>
 </p>
 
 * I am a Msc student in the Computer Science Department at [FaMAF](www.famaf.unc.edu.ar). I am working on my thesis with Thesis Directors: [Prof Dr. Benotti Luciana](https://benotti.github.io/), [PhD. Student Gomez Marcos](https://scholar.google.com.ar/citations?user=FTHzyOEAAAAJ&hl=en). Topic of the thesis: Machine Learning applied to predict dropout in programming students. Disertation to be done. [[Curriculum Vitae]](#linktomycv_under_construction)
