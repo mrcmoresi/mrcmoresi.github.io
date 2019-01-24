@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="images/profile.jpg" alt="profile" style="width: 450px;"/> 
-</p>
+</p> -->
 
 * I am a Msc student in the Computer Science Department at [FaMAF](www.famaf.unc.edu.ar). I am working on my thesis with Thesis Directors: [Prof Dr. Benotti Luciana](https://benotti.github.io/), [PhD. Student Gomez Marcos](https://scholar.google.com.ar/citations?user=FTHzyOEAAAAJ&hl=en). Topic of the thesis: Machine Learning applied to predict dropout in programming students. Disertation to be done. [[Curriculum Vitae]](#linktomycv_under_construction)
 
@@ -19,5 +19,5 @@ redirect_from:
 * My research interests lie in the general area of machine learning, particularly in speech, language and dialogue processing as well as their applications in intelligent tutoring system, natural language understanding and others. In addition, part of my heart is in Computer Vision systems because those were the first applications of machine learning that I have learned about.
 
 
-# Recent News
+# Important things
 * January 2016, My first paper as colaborator named 'Lessons learned on computer science teachers professional development' was accepted at [ITiCSE](http://ucsp.edu.pe/iticse2016/)
