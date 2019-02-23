@@ -22,7 +22,7 @@ Although the platform gives the students an assessment about their submissions, 
 
 In order to achieve the feature to generate formative feedback, the first important step is to detect when a student is in a dropout status. We define a dropout status as a moment when the student is near of droping out that exercise because he/she cannot solve it and decides to switch exercise or simply leave the platform for some time.
 
-For this work, I have 1 million entries dataset of Haskell exercise's submissions done in Mumuki platform. Those were done in Mumuki.io so a priori we don’t have information about what kind of student made the submissions. Whether it is a computer science student or not, the age of students or some other information that allows us to understand what kind of student itis.
+For this work, I have 4 million entries dataset of Haskell exercise's submissions done in Mumuki platform. Those were done in Mumuki.io so a priori we don’t have information about what kind of student made the submissions. Whether it is a computer science student or not, the age of students or some other information that allows us to understand what kind of student itis.
 But we have all the information related to the submission, status, content, datetime and so on. 
 
 The main objective of this work is to train a Machine Learning Model that can predict a dropout while the student is solving the exercise.
