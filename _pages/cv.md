@@ -12,4 +12,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](files/Marco_Moresi_CV.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](/files/Marco_Moresi_CV.pdf)
