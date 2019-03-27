@@ -13,7 +13,8 @@ redirect_from:
   <img src="images/profile.jpg" alt="profile" style="width: 400px; transform: scale(0.8);"/>
 </p>
 
-* I am a Msc student in the Computer Science Department at [FaMAF](www.famaf.unc.edu.ar). I am working on my thesis with Thesis Directors: [Prof Dr. Benotti Luciana](https://benotti.github.io/), [PhD. Student Gomez Marcos](https://scholar.google.com.ar/citations?user=FTHzyOEAAAAJ&hl=en). Topic of the thesis: Machine Learning applied to predict dropout in programming students. Disertation to be done. [[Curriculum Vitae]](files/Marco_Moresi_CV.pdf)
+* In 2019, I received my Master Degree in Computer Science in the Computer Science Department at [FaMAF](www.famaf.unc.edu.ar). My thesis was directed by  Thesis Directors: [Prof Dr. Benotti Luciana](https://benotti.github.io/), [PhD. Student Gomez Marcos](https://scholar.google.com.ar/citations?user=FTHzyOEAAAAJ&hl=en). Topic of the thesis: Machine Learning applied to predict dropout in programming students. Disertation mark 10 over 10. [[Curriculum Vitae]](files/Marco_Moresi_CV.pdf)
+
 
 * In 2016, I received my Bachelor's Degree in Computer Science, [Facultad de Matemática, Astronomía, Física, y Computación](www.famaf.unc.edu.ar), [Universidad Nacional de Córdoba](https://www.unc.edu.ar/).
 

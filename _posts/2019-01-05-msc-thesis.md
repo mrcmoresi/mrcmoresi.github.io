@@ -31,9 +31,9 @@ In order to achieve that objective I will carry out some experiments. First of a
 Before that, I will use a Deep Network, an LSTM, to predict dropout in programming students.
 Hoping for good results.
 
-Here you can access to my thesis, it is a draft version. Right now i am checking spelling and grammar.
+Here you can access to my thesis.
 
-<a href="http://marcomoresi.com/files/moresi_msc_thesis.pdf">Draft Thesis (last review in 25 Feb.) (in Spanish)</a>
+<a href="http://marcomoresi.com/files/moresi_msc_thesis.pdf">Thesis (in Spanish)</a>
 
 
 ------
