@@ -18,5 +18,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Adaptation of machine translation for multilingual information retrieval in the medical domain](https://www.sciencedirect.com/science/article/pii/S0933365714000062)
 * [Natural language is a programming language: Applying natural language processing to software development](http://drops.dagstuhl.de/opus/volltexte/2017/7135/) by Ernst, Michael D.
 * [Learning Unified Features from Natural and Programming Languages for Locating Buggy Source Code](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/ijcai16npCNN.pdf) by Xuan HuoandMing LiandZhi-Hua Zhou.
+* [Sequence-to-Sequence Generation for Spoken Dialogue via Deep Syntax Trees and
+Strings](https://arxiv.org/abs/1606.05491) by Ondrej Dusek, Filip Jurcicek
 
 ------
