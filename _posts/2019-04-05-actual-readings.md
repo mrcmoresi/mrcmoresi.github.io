@@ -8,7 +8,7 @@ tags:
 
 ---
 
-This is a list of papers/books/others that i am reading. I have receive my Masters degree recently, right now I am looking for a subject to work in a PhD program.
+This is a list of papers/books/others that i am reading. I received my Masters degree recently, right now I am looking for a subject to work in a PhD program.
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Marco Moresi](mrc.moresi@gmail.com)
 
