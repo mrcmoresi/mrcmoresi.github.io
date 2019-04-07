@@ -20,5 +20,6 @@ The sharing principle of these references here is for research. If any authors d
 * [Learning Unified Features from Natural and Programming Languages for Locating Buggy Source Code](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/ijcai16npCNN.pdf) by Xuan HuoandMing LiandZhi-Hua Zhou.
 * [Sequence-to-Sequence Generation for Spoken Dialogue via Deep Syntax Trees and
 Strings](https://arxiv.org/abs/1606.05491) by Ondrej Dusek, Filip Jurcicek
+* [Towards Integration of Cognitive Models in Dialogue Management: Designing the Virtual Negotiation Coach Application](http://dad.uni-bielefeld.de/index.php/dad/article/view/3740/3625)
 
 ------
