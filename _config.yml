@@ -78,12 +78,12 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Site Authory
 author:
   name             : "Marco Moresi"
   avatar           : "profile.jpg"
-  bio              : "MsC student, Computer Science Department, FaMAF, Universidad Nacional de Córdoba"
-  location         : "Cordoba, Argentina"
+  bio              : "MsC, Computer Science Department, FaMAF, Universidad Nacional de Córdoba"
+  location         : "Düsseldorf, Germany"
   employer         :
   googlescholar    : "https://scholar.google.com.ar/citations?user=QDxLGXUAAAAJ&hl=en"
   email            : "mrc.moresi@gmail.com"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "marco-moresi"
   orcid            : 
   pinterest        :
   soundcloud       :
