@@ -25,6 +25,6 @@ expanding my knowledge when creating and developing new tools and services. In a
 
 
 # Important things
-* July 2020, published paper as colaborator 'TripPy: A Triple Copy Strategy for Value Independent Neural Dialog State Tracking' [SIGdial 2020](https://www.sigdial.org/files/workshops/conference21/pdf/2020.sigdial-1.4.pdf)
+* July 2020, published paper as colaborator 'TripPy: A Triple Copy Strategy for Value Independent Neural Dialog State Tracking' [SIGdial 2020](https://www.sigdial.org/files/workshops/conference21/pdf/2020.sigdial-1.4.pdf) [Best paper award]
 * July 2019, published paper as colaborator 'Text-based Programming in Elementary School: A Comparative Study of Programming Abilities in Children with and without Block-based Experience'. [ITiCSE 2019](https://www.researchgate.net/profile/Marcos_Gomez9/publication/334579723_Text-based_Programming_in_Elementary_School_A_Comparative_Study_of_Programming_Abilities_in_Children_with_and_without_Block-based_Experience/links/5d40384b299bf1995b564625/Text-based-Programming-in-Elementary-School-A-Comparative-Study-of-Programming-Abilities-in-Children-with-and-without-Block-based-Experience.pdf)
 * January 2016, My first paper as colaborator named 'Lessons learned on computer science teachers professional development' was accepted at [ITiCSE 2016](http://ucsp.edu.pe/iticse2016/)
