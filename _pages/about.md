@@ -14,7 +14,7 @@ redirect_from:
 </p>
 * During 2020, I spent one year in the Dialog Systems and Machine Learning group directed by [Prof. Dr. Milica Gašić](https://scholar.google.com/citations?hl=en&user=yDSBDJoAAAAJ) Working on how to evaluate Natural language generation for Dialogue Systems. I proposed a variation of a new metric and a new pipeline to evaluate the systems. With the main objective to tackle the drawbacks of the actual metrics without incorporating humans in the loop. [Link to the paper (Soon W.I.P)]()
 
-* In 2019, I received my Master Degree in Computer Science in the Computer Science Department at [FaMAF](www.famaf.unc.edu.ar). My thesis was directed by  Thesis Directors: [Prof Dr. Benotti Luciana](https://benotti.github.io/), [Dr. Gomez Marcos](https://scholar.google.com.ar/citations?user=FTHzyOEAAAAJ&hl=en). Topic of the thesis: Machine Learning applied to predict dropout in programming students. Disertation mark 10 over 10. [[Curriculum Vitae]](files/Marco_Moresi_CV.pdf)
+* In 2019, I received my Master Degree in Computer Science in the Computer Science Department at [FaMAF](www.famaf.unc.edu.ar). My thesis was directed by  Thesis Directors: [Prof Dr. Benotti Luciana](https://benotti.github.io/), [Dr. Gomez Marcos](https://scholar.google.com.ar/citations?user=FTHzyOEAAAAJ&hl=en). Topic of the thesis: Machine Learning applied to predict dropout in programming students. Disertation mark 10 over 10. [[Master Thesis]](files/moresi_msc_thesis.pdf)
 
 
 * In 2016, I received my Bachelor's Degree in Computer Science, [Facultad de Matemática, Astronomía, Física, y Computación](www.famaf.unc.edu.ar), [Universidad Nacional de Córdoba](https://www.unc.edu.ar/).
