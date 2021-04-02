@@ -1,7 +1,7 @@
 ---
 title: "Out-of-Task Training for Dialog State Tracking Models"
 collection: publications
-permalink: /publication/2020-11-01-Out-task
+permalink: /publication/out_task
 excerpt: 'Dialog state tracking (DST) suffers from severe data sparsity. While many natural language processing (NLP) tasks benefit from transfer learning and multi-task learning, in dialog these methods are limited by the amount of available data and by the specificity of dialog applications. In this work, we successfully utilize non-dialog data from unrelated NLP tasks to train dialog state trackers. This opens the door to the abundance of unrelated NLP corpora to mitigate the data sparsity issue inherent to DST. '
 date: 2020-11-01
 venue: 'COLING 2020'
